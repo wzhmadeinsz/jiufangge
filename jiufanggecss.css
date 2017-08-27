@@ -1,0 +1,43 @@
+*{
+	
+}
+a{
+	text-decoration: none;
+}
+.contain{
+	width: 360px;
+	height: 360px;
+	margin: 0 auto;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: orange;
+	margin: 10px 10px;
+	border-radius: 3px;
+}
+.starta{
+	width: 360px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	margin: 15px auto;
+	display: block;
+	background: orange;
+	color: white;
+	border: orange 2px solid;
+	border-radius: 5px;
+	}
+.enda{
+	width: 360px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	background: white;
+	color: orange;
+	border: orange 2px solid;
+	border-radius: 5px;
+}
